@@ -7,4 +7,7 @@ public class PushProject2 {
 		System.out.println("2nd time Push Project...");
 	}
 
+	public void addPush() {
+		System.out.println("Push 2nd time...");
+	}
 }
